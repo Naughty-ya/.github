@@ -1,9 +1,20 @@
 # 너 T야? (Naughty-ya?)
 <p align="middle">
-<img width="800" alt="스크린샷 2023-06-25 오후 8 17 43" src="https://github.com/Naughty-ya/.github/assets/112174727/52095bc2-2031-4166-bf40-ca307e37e05d">
+<a href="https://naughty-ya.netlify.app/">
+ <img width="800" alt="나의 T수치 테스트 너 T야" src="https://github.com/Naughty-ya/.github/assets/113872386/33ac15e4-bc08-4017-b619-cf4eac618ac3">
+</a>
 </p>
 
 <!-- # 🐣 프로젝트 소개 -->
+
+<p align="middle">
+ <a href="https://naughty-ya.netlify.app/">
+  🔗 너 T야? 서비스 이용하기
+ </a>
+</p>
+
+
+<br/>
 
 ## :bulb: 기획의도
 
@@ -61,6 +72,16 @@
 - BDD & SDD 를 통한 설계 및 태스크 분배
 - 개발 일정과 임팩트를 고려한 태스크 우선순위 선정
 - 페어 프로그래밍으로 통한 빠른 피드백과 코드 개선
+
+<br/>
+
+## :pushpin: 시연 화면
+
+|  랜딩 페이지  | 선택형 채팅 페이지 | 입력형 채팅 페이지 | 결과 페이지 |
+| :--------: | :----------: | :-----------: |  :----: |
+| ![랜딩페이지](https://github.com/Naughty-ya/.github/assets/113872386/5ca56d64-2005-43f3-b969-fe2ed3187b26) | <figure class="half">![선택형채팅](https://github.com/Naughty-ya/.github/assets/113872386/e0e86e00-54b3-40ae-abb5-abf714302a91) | ![입력형채팅](https://github.com/Naughty-ya/.github/assets/113872386/8c094b82-6e7a-45cc-9f00-2f80af20e304) </figure> | ![결과페이지](https://github.com/Naughty-ya/.github/assets/113872386/030151ec-6b7d-4678-b2d1-2dfda4def391) | 
+
+
 
 <br/>
 
