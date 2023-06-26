@@ -64,19 +64,6 @@
 
 <br/>
 
-## :pushpin: 기능 소개
-|   랜딩페이지 및 온보딩 | 로그인 및 회원가입 | 메인페이지 |
-| :-------------------------: | :-------------------------: |  :-------------------------: | 
-| <img src="https://i.imgur.com/mgI2aed.gif" width="300" />| ![login](https://user-images.githubusercontent.com/49177223/221571290-ee44d723-bba3-40b5-a96f-88a518e617ae.gif) | ![home](https://user-images.githubusercontent.com/49177223/221574938-f0b2f8d3-aeef-4052-b1c7-3a313f6da9a2.gif)
-
-
-|  홈페이지  | 기록 페이지 | 커뮤니티 페이지 |
-| :-------------------------: | :-------------------------: | :-------------------------: | 
-| ![home](https://user-images.githubusercontent.com/49177223/221574938-f0b2f8d3-aeef-4052-b1c7-3a313f6da9a2.gif)| ![write](https://user-images.githubusercontent.com/49177223/221575520-95d2d40d-0d36-40b0-ad20-d9d5ff3acd89.gif) | ![community](https://user-images.githubusercontent.com/49177223/221575188-351264f4-171f-4fb3-8afc-ae5cf38553e9.gif)
- | 
-
-<br/>
-
 ## :pencil: 코드 컨벤션
 ```
 Feat : 새로운 기능의 추가
