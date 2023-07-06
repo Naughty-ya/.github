@@ -46,7 +46,7 @@
         <td align="center">BE <br/><span style="font-weight : bold">맛김</span></td>
         <td align="center" >FE <br/><span style="font-weight : bold">쿠키</span></td>
         <td align ="center"> FE <br/> <span style="font-weight : bold">본좌</span></td>
-        <td align="center">DE <br/> <span style="font-weight : bold">제이</span></td>
+        <td align="center">DE <br/> <span style="font-weight : bold">재이</span></td>
         <td align="center" >FE <br/> <span style="font-weight : bold">감자</span></td>  
         <td align="center">FE <br/><span style="font-weight : bold">준준</span></td>
         <td align="center">FE <br/><span style="font-weight : bold">흑흑흑</span></td> 
